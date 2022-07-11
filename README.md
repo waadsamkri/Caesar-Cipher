@@ -8,3 +8,6 @@ How to use:-
 1-	Ask the user to input the ciphertext as a string and key.
 2-	print output
 3-	Ask the user if he/she wants to perform another decryption operation or he/she wants to exit the program
+
+
+DATE: April-2021 AUTHORS: Waad Samkari USER INSTRUCTIONS: This is a Java project. Use a BlueJ app to open this project
